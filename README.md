@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi , I'm Shubham Shewale <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   
-    <a align="center" href="#"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=MASAI+SCHOOL;1500%2B+Hours+of+Coding+Experience;Data+Structure+Algorithm;MERN;Full+Stack+Web+Developer;"></img></a> 
      
    </h1>
    <div align="center">
