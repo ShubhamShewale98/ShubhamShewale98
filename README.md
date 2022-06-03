@@ -4,17 +4,18 @@
   
      
    </h1>
-   <div align="center">
-   <a href="https://app.daily.dev/rahulyo954030"><img src="https://avatars.githubusercontent.com/u/87892652?v=4"/></a>
-   </div>
-   <br>
-   <h2>I learn code from:--</h2>
-   <a href="https://masai-school.learnworlds.com/"><img src="https://lwfiles.mycourse.app/masai-school-public/283427801ef0376bad3f197fad544f38.png" height="50" width="100"></a>
+  
+<div align="center">
+   <img style="border-radius:50%"
+      src="https://media-exp1.licdn.com/dms/image/C4D03AQHhEck4skvpJA/profile-displayphoto-shrink_400_400/0/1654249236447?e=1659571200&v=beta&t=kIfInCiR7F2LPr0BHkAAB9BT9-dc25hRosXgvGa2pkU"
+      alt="">
+
+</div>
    
    
    
    <br>
-   <h1>Connect to me on :-</h1>
+   <h3>Connect to me on :-</h3>
    <p align="center" dir="auto">
    <a href="" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shubham" height="50" width="50" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
    <a href="https://www.linkedin.com/in/shubham-shewale-/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahul Singh" height="50" width="50" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
@@ -23,7 +24,7 @@
    <hr>
    
    <br><br>
-   <h1>Practices on Skills and Frameworks</h1>
+   <h3>Practices on Skills and Frameworks</h3>
    <p align="center" dir="auto">
    <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg"><img src="https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg" style="max-width: 100%;"></a>
     </p>
