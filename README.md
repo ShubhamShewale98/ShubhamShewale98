@@ -9,8 +9,7 @@
 
 - 👯 I’m looking to collaborate on **with MERN stack developer**
 
-- 👨‍💻 All of my projects are available at [https://funny-meringue-0d2885.netlify.app/](https://funny-meringue-0d2885.netlify.app/)
-
+- 👨‍💻  All of my projects are available at [https://shubhamshewale-portfolio.netlify.app/](https://shubhamshewale-portfolio.netlify.app/)
 - 💬 Ask me about **react , redux ,node.js,express**
 
 - 📫 How to reach me **shubhamshewale498@gmail.com**
