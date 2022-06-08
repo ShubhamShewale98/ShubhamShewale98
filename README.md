@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me </h3>
 <p align="left"><a href="https://www.linkedin.com/in/shubham-shewale-/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="bash" width="31"/> </a>
-  <a href="mailto:shubhamshewale498.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="bash" width="31"/> </a>
+  <a href="mailto:shubhamshewale498@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="bash" width="31"/> </a>
+
   </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="bash" width="31" height="31"/> </a>
   </p>
 
   </a>
